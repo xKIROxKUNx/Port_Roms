@@ -1,2 +1,3 @@
-# port_roms
-Mirror link for my ports
+# OctaviOS port roms for Mi A2 (jasmine_sprout)
+Mirror link for my OctaviOS port roms.
+
